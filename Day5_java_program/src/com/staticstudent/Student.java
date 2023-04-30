@@ -9,7 +9,7 @@ public class Student {
 	
 	
 	//private static String institutionname;
-	
+	// 
 //	 static
 //	{
 //		institutionname="iacsd";
